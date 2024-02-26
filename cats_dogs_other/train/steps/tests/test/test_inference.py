@@ -1,6 +1,8 @@
 import unittest
 from pathlib import Path
 
+from kto.inference import Inference
+
 from cats_dogs_other.train.steps.test import Inference
 
 BASE_PATH = Path(__file__).resolve().parent
