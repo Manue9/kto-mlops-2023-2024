@@ -1,8 +1,7 @@
 name: cats-dogs-other
 
 docker_env:
-  image: quay.io/gthomas59800/kto/train/cats-dogs-other-2023-2024
-
+  image: quay.io/emma99/cats_dogs_other
 entry_points:
   main:
     parameters:
